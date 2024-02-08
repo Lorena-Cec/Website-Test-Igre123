@@ -12,7 +12,7 @@ The test cases:
 
 - CrossBrowserTest - checking browser compatibility with the use of a testng file, the test starts by choosing the browser and it additionally checks if the input for the login is case sensitive
 
-- LoginTest – checking if the login data is correct (for the purpose of the test an account was made), the test stars by finding the button for login, next it finds the element for username input and sends the username and it repeats the same action for the password, with the click of the submit button it logs in and checks the title (if the login is successfull we go to page for favorite games)
+- LoginTest – checking if the login data is correct (for the purpose of the test an account was made), the test starts by finding the button for login, next it finds the element for username input and sends the username and it repeats the same action for the password, with the click of the submit button it logs in and checks the title (if the login is successfull we go to page for favorite games)
 
 - NavigationTest – checking if the navigation bar leads to the right websites, there are two tests within this test – one to check if the Puzzle button goes to the Puzzle page and the other to check if the Sudoku button goes to the Sudoku page
 
