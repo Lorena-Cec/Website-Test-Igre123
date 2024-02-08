@@ -1,8 +1,8 @@
 Programs used:
 
-Intellij IDEA - https://www.jetbrains.com/idea/
-Chrome Driver - https://chromedriver.chromium.org/downloads
-Firefox Driver – https://github.com/mozilla/geckodriver/releases
+- Intellij IDEA - https://www.jetbrains.com/idea/
+- Chrome Driver - https://chromedriver.chromium.org/downloads
+- Firefox Driver – https://github.com/mozilla/geckodriver/releases
 
 The test cases:
 
