@@ -30,7 +30,7 @@ public class LoginTest {
         Thread.sleep(1000);
         driver.findElement(By.name("btnLogin")).click();
 
-        String titleName = "Igre i Igrice - Igraj besplatno na Igre123";
+        String titleName = "Testiranje123 | omiljene igre";
         String actualTitle = driver.getTitle();
 
         if(titleName.equals(actualTitle)){
